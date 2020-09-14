@@ -54,6 +54,10 @@ function spellCheck() {
     
 }
 
+
+
+// Reset everything:
+
 function reset(){
     clearInterval(interval);
     interval = null;
@@ -66,8 +70,6 @@ function reset(){
 
 }
 
-
-// Reset everything:
 
 
 // Event listeners for keyboard input and the reset button:
