@@ -10,7 +10,6 @@ var interval;
 var runningTimer = false;
 
 
-// Add leading zero to numbers 9 or below (purely for aesthetics):
 
 
 // Run a standard minute/second/hundredths timer:
